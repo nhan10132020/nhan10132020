@@ -19,7 +19,7 @@ class Skills extends Nhan_Tran {
     super();
     this.languages = ["Javascript", "TypeScript","Python"];
     this.frontend = ["React", "HTML/CSS""];
-    this.backend = ["Node""Firebase"];
+    this.backend = ["Node","Firebase"];
     this.AI =["TensorflowJS"]
     this.other = ["Git/Github"]
   }
