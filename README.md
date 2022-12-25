@@ -17,8 +17,9 @@ class Skills extends Nhan_Tran {
   languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; AI: string[] ;other: string[]
   constructor() {
     super();
-    this.languages = ["Javascript", "TypeScript","Python"];
+    this.languages = ["Javascript", "TypeScript","Python","Dart"];
     this.frontend = ["React", "HTML/CSS""];
+    this.mobile = ["Flutter"]
     this.backend = ["Node","Firebase"];
     this.AI =["TensorflowJS"]
     this.other = ["Git/Github"]
