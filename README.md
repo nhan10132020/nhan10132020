@@ -1,4 +1,4 @@
-# Hi, I’m Tran Thanh Nhan!   <img src="https://cdn.popsww.com/blog/sites/2/2021/12/co-hai-tac-bang-mu-rom-768x468.jpg" height="32" alt="totoro">
+# Hi, I’m Tran Thanh Nhan! 
 
 
 I'm studying  _Computer Science - Artificial Intelligence_ at **University of information technology** <img src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" height="28">
